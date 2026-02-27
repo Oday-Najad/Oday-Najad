@@ -1,5 +1,24 @@
 # 💫 About Me:
-I’m Oday Najad — a M.Sc. Data Science graduate specializing in production-grade Machine Learning systems, scalable data infrastructure, and ML automation.<br><br>I design, build, and deploy end-to-end ML ecosystems — from raw data ingestion and feature engineering to model optimization, CI/CD automation, and cloud deployment. My work combines applied research rigor with engineering discipline.<br><br>At the University of Padova, I architected a full bioacoustic classification pipeline processing 9,400+ labeled audio samples across 53 classes. I engineered 40+ interpretable acoustic features (MFCCs, pitch contours, formants, spectral statistics), implemented temporally-aware validation to eliminate data leakage, and systematically optimized multiple algorithms (Random Forest, SVM, XGBoost), achieving production-ready generalization performance.<br><br>Beyond modeling, I focus on reproducibility, automation, and deployment:<br><br>Designed modular preprocessing pipelines with 95% code reusability<br><br>Reduced experiment iteration time from 4 hours to 45 minutes<br><br>Built CI/CD workflows with GitHub Actions for automated model deployment<br><br>Dockerized ML services for cloud-native environments<br><br>Implemented data versioning (DVC) and experiment tracking (MLflow)<br><br>Engineered big data pipelines using Azure Data Factory, Databricks (Spark), and Synapse SQL<br><br>Deployed cloud infrastructure on AWS (EC2, S3, RDS, Lambda, SageMaker)<br><br>I operate comfortably across:<br><br>Machine Learning & Statistical Modeling<br><br>MLOps & CI/CD Automation<br><br>Data Engineering (ETL/ELT, PySpark, SQL)<br><br>Deep Learning (CNNs, Transformers, U-Net variants)<br><br>Optimization Algorithms (Frank–Wolfe variants, constrained optimization)<br><br>Graph & NoSQL Databases (Neo4j, MongoDB)<br><br>My mindset is infrastructure-first: I don’t treat ML as isolated notebooks — I build scalable, reproducible, and deployment-ready systems.<br><br>🧩 Technical Stack<br><br>Languages: Python, SQL<br>ML Frameworks: scikit-learn, TensorFlow, PyTorch, Keras<br>Data Engineering: PySpark, Azure Data Factory, Databricks, Synapse<br>MLOps: Docker, GitHub Actions, MLflow, DVC, Dagshub<br>Cloud: AWS (EC2, S3, RDS, SageMaker, Lambda, Bedrock), Azure<br>Databases: PostgreSQL, MongoDB, Neo4j<br>Orchestration: Apache Airflow<br>Core Areas: ML Systems Design, Model Optimization, Data Pipelines, Explainable AI<br><br>🎯 Engineering Philosophy<br><br>Reproducibility > experimentation chaos<br><br>Automation > manual workflows<br><br>Generalization > leaderboard scores<br><br>Systems thinking > isolated modeling
+
+M.Sc. Data Science graduate focused on building production-ready ML systems, scalable data pipelines, and automated ML infrastructure.
+
+I design and deploy end-to-end ML solutions — from data ingestion and feature engineering to model optimization, CI/CD automation, and cloud deployment — combining research rigor with engineering discipline.
+
+At the University of Padova, I built a bioacoustic classification system processing 9,400+ recordings across 53 classes, engineered 40+ interpretable features, implemented leakage-free temporal validation, and optimized multiple algorithms for strong real-world generalization.
+
+---
+
+## ⚙️ Core Focus
+
+- Machine Learning & Statistical Modeling  
+- Data Engineering & Scalable Pipelines  
+- MLOps & CI/CD Automation  
+- Data Analytics & Insight Generation  
+- Reproducible, Deployment-Ready Systems  
+
+---
+
+**Engineering mindset 🚀 :** Reproducible. Automated. Production-oriented.
 
 
 ## 🌐 Socials:
