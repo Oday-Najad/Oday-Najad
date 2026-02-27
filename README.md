@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🚀 About Me:
 
 M.Sc. Data Science graduate focused on building production-ready ML systems, scalable data pipelines, and automated ML infrastructure.
 
@@ -18,7 +18,7 @@ At the University of Padova, I built a bioacoustic classification system process
 
 ---
 
-**Engineering mindset 🚀 :** Reproducible. Automated. Production-oriented.
+**Engineering mindset 💫 :** Reproducible. Automated. Production-oriented.
 
 
 ## 🌐 Socials:
